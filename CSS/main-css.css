@@ -1,0 +1,13 @@
+body{
+	padding: 10%;
+	font-family: futura;
+	color: #333;
+	line-height: 20px;
+	letter-spacing: 0.4;
+}
+
+img{
+	float: left;
+	padding-right: 40px;
+	width: 50%;
+}
